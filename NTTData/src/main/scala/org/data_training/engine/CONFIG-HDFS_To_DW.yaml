@@ -1,0 +1,14 @@
+# Importing HDFS Files to DATAWAREHOUSE Setting
+# version 0.0.1
+
+HDFS_FILE_PATHS:
+- /ecomData/customers_dataset.csv
+- /ecomData/orders_dataset.csv
+
+HIVE_DATABASE: ecom1
+HIVE_TABLE: customers_table
+LOAD_MODE: overwrite
+FILE_FORMAT: csv
+OPTIONS:
+  delimiter: ","
+  header: true

@@ -1,0 +1,85 @@
+Index: ../Hive/.idea/workspace.xml
+===================================================================
+diff --git a/../Hive/.idea/workspace.xml b/../Hive/.idea/workspace.xml
+--- a/../Hive/.idea/workspace.xml	
++++ b/../Hive/.idea/workspace.xml	
+@@ -5,44 +5,21 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="59f52596-d656-40fa-9890-13b61107fdff" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/scala/org/example/App.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/scala/samples/junit.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/scala/samples/scalatest.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/scala/samples/specs.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/mariadb.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/src/main/scala/org/example/App.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/src/test/scala/samples/junit.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/src/test/scala/samples/scalatest.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../mariadb/src/test/scala/samples/specs.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/codeStyles/Project.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/scala_compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/src/main/scala/org/example/App.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/src/test/scala/samples/junit.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/src/test/scala/samples/scalatest.scala" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../sparkHive/src/test/scala/samples/specs.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../NTTData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../NTTData/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/engine/Engine.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/engine/Engine.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/App.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/Runnable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/Runnable.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/engine/Constant.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/engine/Constant.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Customers.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Customers.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Geolocation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Geolocation.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Hdfs_into_postgres.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Hdfs_into_postgres.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_items.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_items.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_payments.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_payments.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_reviews.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Order_reviews.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Orders.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Orders.scala" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Product_cat_ntt.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Product_cat_ntt.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Products.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Products.scala" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Sellers.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../NTTData/src/main/scala/org/data_training/jobs/Sellers.scala" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -67,14 +44,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Users/AZComputer/IdeaProjects/NTTData"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/AZComputer/IdeaProjects/Hive&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
