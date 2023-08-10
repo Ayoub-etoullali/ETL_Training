@@ -19,5 +19,6 @@ The primary objective of this training program is to equip developers with the n
 We look forward to guiding you through this enriching learning experience. Happy learning!
 
 ---
-*With ❤️ By Ayoub ETOULLALI*
- #### | NTT DATA
+*With ❤️ By Ayoub ETOULLALI* <\b><\b>
+<img src="[img_girl.jpg](https://github.com/Ayoub-etoullali/ETL_Training/assets/92756846/f2658533-6537-43b4-a9cd-7f9d41c65f76)https://github.com/Ayoub-etoullali/ETL_Training/assets/92756846/f2658533-6537-43b4-a9cd-7f9d41c65f76" alt="| NTT DATA" width="30%" height="30%">
+
