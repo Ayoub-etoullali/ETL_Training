@@ -1,7 +1,4 @@
-
-<div text-align:right;">
-        <img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" width="20%" height="20%">
-</div>
+<img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" width="15%" height="15%">
 
 # Data Engineering and Data Science Training Program
 
