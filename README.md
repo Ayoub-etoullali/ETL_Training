@@ -1,3 +1,5 @@
+<img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" width="20%" height="20%">
+
 # Data Engineering and Data Science Training Program
 
 Welcome to our comprehensive data training project, designed as part of our training curriculum for newcomers in the field. This program offers an immersive learning experience to practice and master the key aspects of data engineering and data science through their complete life cycles.
@@ -20,4 +22,4 @@ We look forward to guiding you through this enriching learning experience. Happy
 
 ---
 *With ❤️ By Ayoub ETOULLALI* 
-<img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" style="float: right;" width="30%" height="30%">
+<img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" width="20%" height="20%">
