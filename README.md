@@ -20,6 +20,4 @@ We look forward to guiding you through this enriching learning experience. Happy
 
 ---
 *With ❤️ By Ayoub ETOULLALI* <b>
-<div style="float: right;">
 <img src="https://ikm.itu.edu.tr/wp-content/uploads/wp-job-board-pro-uploads/_employer_featured_image/2023/06/NTT_Data-Logo.wine_.png" alt="| NTT DATA" style="float: right;" width="30%" height="30%">
-</div>
