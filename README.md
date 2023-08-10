@@ -19,5 +19,5 @@ The primary objective of this training program is to equip developers with the n
 We look forward to guiding you through this enriching learning experience. Happy learning!
 
 ---
-*With ❤️ By Ayoub ETOULLALI | Data Enthusiast* 
- #### | NTT DATA
+*With ❤️ By Ayoub ETOULLALI*  | Data Enthusiast
+ ### | NTT DATA
